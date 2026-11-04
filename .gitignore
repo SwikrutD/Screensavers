@@ -1,0 +1,5 @@
+*.scr
+*.exe
+*.obj
+nul
+textures/
